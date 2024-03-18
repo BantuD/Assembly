@@ -1,0 +1,16 @@
+
+#ignore everytihg without extension
+*
+#unignore something wich have extension
+!*.*
+
+#unignore the directory
+!*/
+
+#ignore .out extension
+*.out
+
+#ignore .o files
+*.o
+#ignore .o files
+*.o
